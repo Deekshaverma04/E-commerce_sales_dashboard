@@ -1,3 +1,3 @@
 In this E-commerce_sales_dashborad file I working on that step by step
-here's the first thing that show in data that the data is no in corect way so, in data set I, first cleaning the unwanted values and null values 
+here's the first thing that show in data that the data is no in correct way so, in data set I, first cleaning the unwanted values and null values 
 after this steps I make the dashboard we show in dashboard our sales and amount of sales, profit, sub-categories, payment method and etc... 
